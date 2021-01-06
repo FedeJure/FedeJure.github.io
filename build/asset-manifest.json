@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/fedejure/static/css/main.1d5bbdaa.chunk.css",
+    "main.js": "/fedejure/static/js/main.b4d1b58f.chunk.js",
+    "main.js.map": "/fedejure/static/js/main.b4d1b58f.chunk.js.map",
+    "runtime-main.js": "/fedejure/static/js/runtime-main.9dea4d40.js",
+    "runtime-main.js.map": "/fedejure/static/js/runtime-main.9dea4d40.js.map",
+    "static/css/2.dd8ad4bb.chunk.css": "/fedejure/static/css/2.dd8ad4bb.chunk.css",
+    "static/js/2.dd11fb03.chunk.js": "/fedejure/static/js/2.dd11fb03.chunk.js",
+    "static/js/2.dd11fb03.chunk.js.map": "/fedejure/static/js/2.dd11fb03.chunk.js.map",
+    "index.html": "/fedejure/index.html",
+    "precache-manifest.3ac86666f89f55157ece4cafd35f07e5.js": "/fedejure/precache-manifest.3ac86666f89f55157ece4cafd35f07e5.js",
+    "service-worker.js": "/fedejure/service-worker.js",
+    "static/css/2.dd8ad4bb.chunk.css.map": "/fedejure/static/css/2.dd8ad4bb.chunk.css.map",
+    "static/css/main.1d5bbdaa.chunk.css.map": "/fedejure/static/css/main.1d5bbdaa.chunk.css.map",
+    "static/js/2.dd11fb03.chunk.js.LICENSE.txt": "/fedejure/static/js/2.dd11fb03.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/fedejure/static/media/arrow.a74212b6.svg",
+    "static/media/contact-info-icon1.svg": "/fedejure/static/media/contact-info-icon1.04e4f259.svg",
+    "static/media/contact-info-icon2.svg": "/fedejure/static/media/contact-info-icon2.df4fdedf.svg",
+    "static/media/contact-info-icon3.svg": "/fedejure/static/media/contact-info-icon3.3cf93bcf.svg",
+    "static/media/dribble.svg": "/fedejure/static/media/dribble.db57da79.svg",
+    "static/media/facebook.svg": "/fedejure/static/media/facebook.aa1e8c9c.svg",
+    "static/media/logo-yellow.svg": "/fedejure/static/media/logo-yellow.789bce48.svg",
+    "static/media/logo.svg": "/fedejure/static/media/logo.39c5f3c6.svg",
+    "static/media/mobile-close.svg": "/fedejure/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/fedejure/static/media/mobile-menu.10823520.svg",
+    "static/media/partner01.svg": "/fedejure/static/media/partner01.1f6de9f0.svg",
+    "static/media/partner02.svg": "/fedejure/static/media/partner02.d8f2a498.svg",
+    "static/media/partner03.svg": "/fedejure/static/media/partner03.0d091731.svg",
+    "static/media/partner04.svg": "/fedejure/static/media/partner04.81292e3c.svg",
+    "static/media/partner05.svg": "/fedejure/static/media/partner05.d39e28a3.svg",
+    "static/media/partner06.svg": "/fedejure/static/media/partner06.a0c63ad5.svg",
+    "static/media/twitter.svg": "/fedejure/static/media/twitter.0ecdf21a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dea4d40.js",
+    "static/css/2.dd8ad4bb.chunk.css",
+    "static/js/2.dd11fb03.chunk.js",
+    "static/css/main.1d5bbdaa.chunk.css",
+    "static/js/main.b4d1b58f.chunk.js"
+  ]
+}
