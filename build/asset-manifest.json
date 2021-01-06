@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/FedeJure.github.io/static/css/main.1d5bbdaa.chunk.css",
+    "main.js": "/FedeJure.github.io/static/js/main.4a6c0fec.chunk.js",
+    "main.js.map": "/FedeJure.github.io/static/js/main.4a6c0fec.chunk.js.map",
+    "runtime-main.js": "/FedeJure.github.io/static/js/runtime-main.3ca641f1.js",
+    "runtime-main.js.map": "/FedeJure.github.io/static/js/runtime-main.3ca641f1.js.map",
+    "static/css/2.dd8ad4bb.chunk.css": "/FedeJure.github.io/static/css/2.dd8ad4bb.chunk.css",
+    "static/js/2.dd11fb03.chunk.js": "/FedeJure.github.io/static/js/2.dd11fb03.chunk.js",
+    "static/js/2.dd11fb03.chunk.js.map": "/FedeJure.github.io/static/js/2.dd11fb03.chunk.js.map",
+    "index.html": "/FedeJure.github.io/index.html",
+    "precache-manifest.01375e51209b6f10eed3d767c556e900.js": "/FedeJure.github.io/precache-manifest.01375e51209b6f10eed3d767c556e900.js",
+    "service-worker.js": "/FedeJure.github.io/service-worker.js",
+    "static/css/2.dd8ad4bb.chunk.css.map": "/FedeJure.github.io/static/css/2.dd8ad4bb.chunk.css.map",
+    "static/css/main.1d5bbdaa.chunk.css.map": "/FedeJure.github.io/static/css/main.1d5bbdaa.chunk.css.map",
+    "static/js/2.dd11fb03.chunk.js.LICENSE.txt": "/FedeJure.github.io/static/js/2.dd11fb03.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/FedeJure.github.io/static/media/arrow.a74212b6.svg",
+    "static/media/contact-info-icon1.svg": "/FedeJure.github.io/static/media/contact-info-icon1.04e4f259.svg",
+    "static/media/contact-info-icon2.svg": "/FedeJure.github.io/static/media/contact-info-icon2.df4fdedf.svg",
+    "static/media/contact-info-icon3.svg": "/FedeJure.github.io/static/media/contact-info-icon3.3cf93bcf.svg",
+    "static/media/dribble.svg": "/FedeJure.github.io/static/media/dribble.db57da79.svg",
+    "static/media/facebook.svg": "/FedeJure.github.io/static/media/facebook.aa1e8c9c.svg",
+    "static/media/logo-yellow.svg": "/FedeJure.github.io/static/media/logo-yellow.789bce48.svg",
+    "static/media/logo.svg": "/FedeJure.github.io/static/media/logo.39c5f3c6.svg",
+    "static/media/mobile-close.svg": "/FedeJure.github.io/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/FedeJure.github.io/static/media/mobile-menu.10823520.svg",
+    "static/media/partner01.svg": "/FedeJure.github.io/static/media/partner01.1f6de9f0.svg",
+    "static/media/partner02.svg": "/FedeJure.github.io/static/media/partner02.d8f2a498.svg",
+    "static/media/partner03.svg": "/FedeJure.github.io/static/media/partner03.0d091731.svg",
+    "static/media/partner04.svg": "/FedeJure.github.io/static/media/partner04.81292e3c.svg",
+    "static/media/partner05.svg": "/FedeJure.github.io/static/media/partner05.d39e28a3.svg",
+    "static/media/partner06.svg": "/FedeJure.github.io/static/media/partner06.a0c63ad5.svg",
+    "static/media/twitter.svg": "/FedeJure.github.io/static/media/twitter.0ecdf21a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ca641f1.js",
+    "static/css/2.dd8ad4bb.chunk.css",
+    "static/js/2.dd11fb03.chunk.js",
+    "static/css/main.1d5bbdaa.chunk.css",
+    "static/js/main.4a6c0fec.chunk.js"
+  ]
+}
