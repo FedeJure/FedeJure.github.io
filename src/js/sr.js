@@ -21,16 +21,18 @@ export default function() {
   ScrollReveal().reveal('.hero-title', 
     assignProps(
       { 
-        delay: 500, 
-        origin: window.innerWidth > 768 ? 'left' : 'bottom'
+        delay: 0, 
+        origin: window.innerWidth > 768 ? 'left' : 'bottom',
+        display: 'block'
       }, defaultProps)
   );
   
   ScrollReveal().reveal('.hero-cta', 
     assignProps(
       {
-        delay: 1000, 
-        origin: window.innerWidth > 768 ? 'left' : 'bottom'
+        delay: 500, 
+        origin: window.innerWidth > 768 ? 'left' : 'bottom',
+        display: 'block'
       }, defaultProps)
   );
 
