@@ -1,3 +1,15 @@
-{
-    
-}
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls",
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.turtle1.wow",
+        "sha256_cert_fingerprints": [
+          "07:11:05:CC:D0:93:4B:B6:93:95:A3:01:1E:E0:D6:8D:FB:74:2A:E2:E6:D7:C2:09:AE:F6:34:8E:DB:48:C7:B3"
+        ]
+      }
+    }
+  ]
