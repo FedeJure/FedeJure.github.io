@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sleep sheep: Relaxing night</title>
+    <link rel="icon" type="image/x-icon" href="./icon.png">
+    <style>
+        :root {
+            --primary-gold: #FFD700;
+            --dark-bg: #0a0a14;
+            --warcraft-blue: #0066cc;
+            --parchment: #f0e6d2;
+        }
+
+        body {
+            background: var(--dark-bg) url("./background.png") no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Arial Black', sans-serif;
+            color: var(--parchment);
+            margin: 0;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            backdrop-filter: blur(5px);
+        }
+
+        header {
+            text-align: center;
+            padding: 4rem 0;
+            border-bottom: 3px solid var(--primary-gold);
+        }
+
+        .app-icon {
+            width: 150px;
+            height: 150px;
+            border: 3px solid var(--primary-gold);
+            border-radius: 25px;
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            color: var(--primary-gold);
+            text-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+            margin: 1rem 0;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 1.5rem 3rem;
+            background: linear-gradient(45deg, var(--warcraft-blue), #004080);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 1.5rem;
+            transition: transform 0.3s ease;
+            border: 2px solid var(--primary-gold);
+        }
+
+        .cta-button:hover {
+            transform: scale(1.05);
+            background: linear-gradient(45deg, #004080, var(--warcraft-blue));
+        }
+
+        .play-store-icon {
+            width: 40px;
+            margin-right: 15px;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            padding: 4rem 0;
+        }
+
+        .feature-card {
+            background: rgba(0,0,0,0.7);
+            padding: 2rem;
+            border-radius: 15px;
+            border: 1px solid var(--primary-gold);
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+            
+            .app-icon {
+                width: 100px;
+                height: 100px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="./icon.png" alt="Turtle Wow Icon" class="app-icon">
+            <h1>Sleep Sheep: Relaxing Night</h1>
+            <p>Tu compañero esencial en las tierras de Azeroth</p>
+            
+            <a href="https://play.google.com/store/apps/details?id=com.sleep1.sheep" class="cta-button">
+                <img src="https://styles.redditmedia.com/t5_30ur7/styles/communityIcon_buqq8o30x4f31.png" 
+                     alt="Play Store" 
+                     class="play-store-icon">
+                Download from Play Store
+            </a>
+        </header>
+    </div>
+</body>
+</html>
